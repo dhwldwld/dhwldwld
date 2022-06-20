@@ -1,6 +1,6 @@
 ### 📝 Studying 📝
 
-## [(studying notion page)](https://strong-place-a06.notion.site/55b0874a0ff1417d964c4746b6c2cf0d?v=e777913eef8c458da553e8bea933d3aa)
+#### [studying](https://strong-place-a06.notion.site/55b0874a0ff1417d964c4746b6c2cf0d?v=e777913eef8c458da553e8bea933d3aa)
 
 #### - Frameworks, Platforms and Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
